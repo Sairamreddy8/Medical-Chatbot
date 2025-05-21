@@ -3,8 +3,8 @@ from setuptools import find_packages, setup
 setup(
     name='Generative AI Project',
     version='0.0.0',
-    author='Gabriel Marco Mercado',
-    author_email='gabbamarco623@gmail.com',
+    author='Sai Ram Reddy',
+    author_email='bradpittx69@gmail.com',
     packages=find_packages(),
     install_requires=[]
 )
